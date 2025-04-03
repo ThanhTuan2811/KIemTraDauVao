@@ -276,13 +276,13 @@ header{
     width: 389px;
     height: 210px;
     position: absolute;
-    top: 192px;
+    top: 182px;
 
  }
  .main-title .main-content{
    
     position: absolute;
-    top: 312px;
+    top: 305px;
     font-family: 'Montserrat', 'Poppins', sans-serif;
  }
  .main-title .main-content h4{
@@ -304,7 +304,7 @@ header{
     width: 145px;
     height: 45px;
     position: absolute;
-    top: 585px;
+    top: 575px;
     display: flex;
  }
   .line{
@@ -338,7 +338,7 @@ header{
  }
  .main-img img{
    width: 100%;
-   height: 670px;
+   height: 650px;
    
 
  }
