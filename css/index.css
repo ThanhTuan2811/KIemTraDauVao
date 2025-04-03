@@ -27,8 +27,8 @@ header{
 
 }
 .logo img{
-    width: 141px;
-    height: 67px;
+    width: 138px;
+    height: 64px;
 }
 .menu-main ul{
     display: flex;
@@ -41,7 +41,7 @@ header{
     color: #07272E;
     font-weight:560;
     font-family: 'Montserrat', 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 17px;
     display: inline-block;
     position: relative;
 }
@@ -162,7 +162,7 @@ header{
     gap: 15px;
  }
  .icon-right span i{
-    font-size: 30px;
+    font-size: 27px;
         color: #07272E;
 
  }
@@ -273,16 +273,16 @@ header{
  }
   .main-title img{
     z-index: 0;
-    width: 400px;
-    height: 213px;
+    width: 397px;
+    height: 210px;
     position: absolute;
-    top: 200px;
+    top: 197px;
 
  }
  .main-title .main-content{
    
     position: absolute;
-    top: 320px;
+    top: 317px;
     font-family: 'Montserrat', 'Poppins', sans-serif;
  }
  .main-title .main-content h4{
@@ -291,16 +291,16 @@ header{
     margin-bottom: 5px;
  }
  .main-title .main-content h1{
-    font-size: 55px;
+    font-size: 52px;
     font-weight: 500;
-    width: 459px;
-    height: 216px;
+    width: 456px;
+    height: 213px;
     color: white;
 
  }
  .view-more{
     border: 1px solid #CDFF9A;
-    width: 153px;
+    width: 150px;
     height: 50px;
     position: absolute;
     top: 600px;
