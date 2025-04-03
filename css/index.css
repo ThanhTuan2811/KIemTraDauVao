@@ -273,7 +273,7 @@ header{
  }
   .main-title img{
     z-index: 0;
-    width: 397px;
+    width: 389px;
     height: 210px;
     position: absolute;
     top: 197px;
@@ -286,12 +286,13 @@ header{
     font-family: 'Montserrat', 'Poppins', sans-serif;
  }
  .main-title .main-content h4{
+    font-size: 16px;
     font-weight: 380;
     color: #CDFF9A;
     margin-bottom: 5px;
  }
  .main-title .main-content h1{
-    font-size: 52px;
+    font-size: 45px;
     font-weight: 500;
     width: 456px;
     height: 213px;
@@ -300,8 +301,8 @@ header{
  }
  .view-more{
     border: 1px solid #CDFF9A;
-    width: 150px;
-    height: 50px;
+    width: 145px;
+    height: 45px;
     position: absolute;
     top: 600px;
     display: flex;
