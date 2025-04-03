@@ -221,7 +221,7 @@ header{
 .copyright,
 .follow-us {
     font-family: 'Montserrat', sans-serif; 
-    font-size: 16px;
+    font-size: 14px;
     color:#CDFF9A; 
     writing-mode: vertical-rl;
     transform: rotate(180deg);
@@ -236,7 +236,7 @@ header{
 
 .social-icons a {
     color: #fff; 
-    font-size: 16px;
+    font-size: 14px;
     text-decoration: none;
 }
 
